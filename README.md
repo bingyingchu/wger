@@ -118,3 +118,13 @@ or (at your option) any later version.
 
 Some images were taken from Wikipedia, see the SOURCES file in their respective
 folders for more details.
+
+
+## Contributing
+Let's build a better wger together! Please checkout the following links to get start. 
+
+* **The [CONTRIBUTING.md file](https://github.com/wger-project/wger/blob/master/.github/contributing.md) has a set of guidelines for contributing to wger.** 
+* **Read out [Coding Style Guide](https://wger.readthedocs.io/en/latest/codingstyle.html).** 
+* **Be sure to checkout this [Tips and Tricks page](https://wger.readthedocs.io/en/latest/tips_and_tricks.html#contributing).**
+
+Thanks for taking the time to contribute! 
